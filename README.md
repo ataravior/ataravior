@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Avior Hay Atar</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast</h3>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | Innovator 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=Passionate+about+Cloud+and+Automation!;DevOps+is+a+Lifestyle!;Building+Scalable+Solutions!+💻" alt="Typing Animation" />
+</p>
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 **Connect with me:**
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,36 +22,63 @@
 
 ---
 
-### 💻 Tech Stack:
+### 💻 **Tech Stack:**
+
 #### **Languages:**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 #### **Cloud Platforms:**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
 </p>
 
 #### **Tools & Frameworks:**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
+#### **Databases:**
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
 ---
 
-### 💬 About Me:
-I'm passionate about DevOps, cloud computing, and building scalable, efficient solutions. I'm always eager to learn new technologies and contribute to exciting projects. Feel free to connect with me for collaboration or sharing ideas!
+### 🚀 **Featured Projects:**
+<p align="left">
+  - **[Project 1](#)**: <em>A DevOps automation solution for CI/CD pipelines.</em>  
+  - **[Project 2](#)**: <em>Cloud infrastructure deployment tool using Terraform and Kubernetes.</em>  
+  - **[Project 3](#)**: <em>A monitoring and alerting solution integrated with Prometheus and Grafana.</em>  
+</p>
 
 ---
 
-### 🚀 Featured Projects:
-- **[Project 1](#)**: A description of your first project.  
-- **[Project 2](#)**: A description of your second project.  
-- **[Project 3](#)**: A description of your third project.  
+### 💡 **About Me:**
+<p align="center">
+  I’m a **DevOps Engineer** who loves **automating workflows**, designing **scalable cloud solutions**, and ensuring smooth **CI/CD pipelines**.  
+  I enjoy working with cutting-edge tools like **Kubernetes**, **Docker**, and **AWS**, and I’m always eager to explore new technologies and solve complex challenges.  
+</p>
+
+---
+
+### 📈 **GitHub Stats:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🎯 **Fun Fact:**
+<p align="center">🚀 I automate everything to make life easier—except my coffee! ☕</p>
