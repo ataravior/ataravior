@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Avior Hay Atar</h1>
 <h3 align="center">DevOps Engineer | Cloud Enthusiast | Innovator 🚀</h3>
 
+---
+
+### 💡 **About Me:**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=Passionate+about+Cloud+and+Automation!;DevOps+is+a+Lifestyle!;Building+Scalable+Solutions!+💻" alt="Typing Animation" />
+  I’m a **DevOps Engineer** who loves **automating workflows**, designing **scalable cloud solutions**, and ensuring smooth **CI/CD pipelines**.  
+  I enjoy working with cutting-edge tools like **Kubernetes**, **Docker**, and **OpenShift**, and I’m always eager to explore new technologies and solve complex challenges.  
 </p>
 
 ---
@@ -28,13 +32,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </p>
 
 #### **Cloud Platforms:**
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift"/>
 </p>
 
 #### **Tools & Frameworks:**
@@ -46,27 +50,16 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
+#### **Monitoring:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+</p>
+
 #### **Databases:**
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
----
-
-### 🚀 **Featured Projects:**
-<p align="left">
-  - **[Project 1](#)**: <em>A DevOps automation solution for CI/CD pipelines.</em>  
-  - **[Project 2](#)**: <em>Cloud infrastructure deployment tool using Terraform and Kubernetes.</em>  
-  - **[Project 3](#)**: <em>A monitoring and alerting solution integrated with Prometheus and Grafana.</em>  
-</p>
-
----
-
-### 💡 **About Me:**
-<p align="center">
-  I’m a **DevOps Engineer** who loves **automating workflows**, designing **scalable cloud solutions**, and ensuring smooth **CI/CD pipelines**.  
-  I enjoy working with cutting-edge tools like **Kubernetes**, **Docker**, and **AWS**, and I’m always eager to explore new technologies and solve complex challenges.  
 </p>
 
 ---
