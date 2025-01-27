@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=Passionate+about+Cloud+and+Automation!;DevOps+is+a+Lifestyle!;Building+Scalable+Solutions!+💻" alt="Typing Animation" />
 </p>
+
 ---
 
 ### 💡 **About Me:**
