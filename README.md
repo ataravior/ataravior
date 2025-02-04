@@ -9,8 +9,8 @@
 
 ### 💡 **About Me:**
 <p align="center">
-  I’m a **DevOps Engineer** who loves **automating workflows**, designing **scalable cloud solutions**, and ensuring smooth **CI/CD pipelines**.  
-  I enjoy working with cutting-edge tools like **Kubernetes**, **Docker**, and **OpenShift**, and I’m always eager to explore new technologies and solve complex challenges.  
+  I’m a DevOps Engineer who loves automating workflows, designing scalable cloud solutions, and ensuring smooth CI/CD pipelines.  
+  I enjoy working with cutting-edge tools like Kubernetes, Docker, and OpenShift, and I’m always eager to explore new technologies and solve complex challenges.  
 </p>
 
 ---
