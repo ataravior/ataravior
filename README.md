@@ -8,7 +8,7 @@
 ---
 
 ### 💡 **About Me:**
-<p align="">
+<p align="right">
   I’m a DevOps Engineer who loves automating workflows, designing scalable cloud solutions, and ensuring smooth CI/CD pipelines.  
   I enjoy working with cutting-edge tools like Kubernetes, Docker, and OpenShift, and I’m always eager to explore new technologies and solve complex challenges.  
 </p>
@@ -16,7 +16,7 @@
 ---
 
 ### 🌐 **Connect with me:**
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -33,20 +33,20 @@
 ### 💻 **Tech Stack:**
 
 #### **Languages:**
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </p>
 
 #### **Cloud Platforms:**
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift"/>
 </p>
 
 #### **Tools & Frameworks:**
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
@@ -55,13 +55,13 @@
 </p>
 
 #### **Monitoring:**
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
 #### **Databases:**
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
@@ -70,12 +70,12 @@
 
 ### 📈 **GitHub Stats:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ataravior&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ataravior&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataravior&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🎯 **Fun Fact:**
-<p align="center">🚀 I automate everything to make life easier—except my coffee! ☕</p>
+<p align="right">🚀 I automate everything to make life easier—except my coffee! ☕</p>
