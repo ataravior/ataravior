@@ -70,11 +70,9 @@
 ---
 
 ### 🎓 **Certifications:**
-<p align="left">
-  - 🏆 Red Hat System Administration I (**RH124**)  
-  - 🏆 Red Hat System Administration II (**RH134**)  
-  - 🏆 Red Hat Enterprise Linux Automation with Ansible (**RH294**)  
-</p>
+- 🏆 Red Hat System Administration I (**RH124**)  
+- 🏆 Red Hat System Administration II (**RH134**)  
+- 🏆 Red Hat Enterprise Linux Automation with Ansible (**RH294**)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Red_Hat-RH124-red?style=for-the-badge&logo=redhat&logoColor=white" alt="RH124"/>
