@@ -9,7 +9,8 @@
 
 ### 💡 **About Me:**
 <p align="left">
-  I’m a DevOps Engineer who loves automating workflows, designing scalable cloud solutions, and ensuring smooth CI/CD pipelines.  
+  I’m a DevOps Engineer who loves automating workflows, designing scalable cloud solutions, and ensuring smooth CI/CD pipelines.
+  <br>
   I enjoy working with cutting-edge tools like Kubernetes, Docker, OpenShift, and Ansible, and I’m always eager to explore new technologies and solve complex challenges.  
 </p>
 
@@ -51,6 +52,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <br> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 </p>
