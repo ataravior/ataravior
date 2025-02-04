@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer | Cloud Enthusiast | Innovator 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=Passionate+about+Cloud+and+Automation!;DevOps+is+a+Lifestyle!;Building+Scalable+Solutions!+💻" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&width=500&lines=Passionate+about+Cloud+and+Automation!;DevOps+is+a+Lifestyle!;Building+Scalable+Solutions!+💻" alt="Typing Animation" />
 </p>
 
 ---
