@@ -85,7 +85,7 @@
 ---
 
 ### 🎯 **Fun Fact:**
-<p align="left">🚀 I automate everything to make life easier—except my coffee! ☕</p>
+<p align="left">🚀 I automate everything to make life easier — except my coffee! ☕</p>
 
 ---
 
