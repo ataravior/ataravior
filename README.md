@@ -10,7 +10,7 @@
 ### 💡 **About Me:**
 <p align="left">
   I’m a DevOps Engineer who loves automating workflows, designing scalable cloud solutions, and ensuring smooth CI/CD pipelines.  
-  I enjoy working with cutting-edge tools like Kubernetes, Docker, and OpenShift, and I’m always eager to explore new technologies and solve complex challenges.  
+  I enjoy working with cutting-edge tools like Kubernetes, Docker, OpenShift, and Ansible, and I’m always eager to explore new technologies and solve complex challenges.  
 </p>
 
 ---
@@ -23,7 +23,7 @@
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/ataravior" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 </p>
 
 #### **Monitoring:**
@@ -64,6 +65,21 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+---
+
+### 🎓 **Certifications:**
+<p align="left">
+  - 🏆 Red Hat System Administration I (**RH124**)  
+  - 🏆 Red Hat System Administration II (**RH134**)  
+  - 🏆 Red Hat Enterprise Linux Automation with Ansible (**RH294**)  
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Red_Hat-RH124-red?style=for-the-badge&logo=redhat&logoColor=white" alt="RH124"/>
+  <img src="https://img.shields.io/badge/Red_Hat-RH134-red?style=for-the-badge&logo=redhat&logoColor=white" alt="RH134"/>
+  <img src="https://img.shields.io/badge/Red_Hat-RH294-red?style=for-the-badge&logo=redhat&logoColor=white" alt="RH294"/>
 </p>
 
 ---
