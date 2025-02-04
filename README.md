@@ -71,7 +71,7 @@
 
 ---
 
-### 🎓 **Certifications:**
+### 📚 **Red Hat Training Courses:**
 - 🏆 Red Hat System Administration I (**RH124**)  
 - 🏆 Red Hat System Administration II (**RH134**)  
 - 🏆 Red Hat Enterprise Linux Automation with Ansible (**RH294**)
