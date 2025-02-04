@@ -84,14 +84,14 @@
 
 ---
 
+### 🎯 **Fun Fact:**
+<p align="left">🚀 I automate everything to make life easier—except my coffee! ☕</p>
+---
+
 ### 📈 **GitHub Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ataravior&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ataravior&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataravior&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
----
-
-### 🎯 **Fun Fact:**
-<p align="left">🚀 I automate everything to make life easier—except my coffee! ☕</p>
+>
